@@ -1,2 +1,2 @@
-# python_brasil_exercises
+# Python Brasil Exercises
 [Exercises](https://wiki.python.org.br/ListaDeExercicios)
