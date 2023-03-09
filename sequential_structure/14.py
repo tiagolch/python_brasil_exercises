@@ -27,6 +27,8 @@ def weight_penalty(weight):
 # weight_penalty(weight)
 
 
+
+# Tests
 @pytest.mark.parametrize('weight, expected1, expected2', [
     (51, '1.00', '4.00'),
     (50, 'Peso esta dentro do limite = 50.00', ''),
