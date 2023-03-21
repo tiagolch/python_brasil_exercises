@@ -14,6 +14,7 @@ def largest_number(number_a, number_b):
     print(f'O maior numero é {result}')
     return result
 
+# largest_number(number_a, number_b)
 
 # tests
 @pytest.mark.parametrize('number_a, number_b, expected', [
