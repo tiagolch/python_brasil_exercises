@@ -23,6 +23,8 @@ def triangle(a, b, c):
         result = 'Isósceles'
     else:
         result = 'Escaleno'
+    
+    print(result)
     return result
 
 
